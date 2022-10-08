@@ -1,4 +1,4 @@
 hacktoberfest -accepted
 
-1.input ---->  server folder_name  
+1.input ---->  server folder_name . 
 
